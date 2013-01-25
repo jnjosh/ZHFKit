@@ -7,6 +7,7 @@ Cause everyone needs a kit
     
 ### TODO:
 
+Add some classes and stuff
 
 ### Contact
 
